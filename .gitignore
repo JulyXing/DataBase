@@ -1,0 +1,10 @@
+*.*
+
+!MangoDB/
+!Memcache/
+!MySQL/
+!PostgreSQL/
+!Redis/
+
+!.gitignore
+!README.md
